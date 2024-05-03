@@ -1,0 +1,12 @@
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Path from Hall Hall to DCC:
+	Walk West to (Intersection 103)
+	Walk NorthWest to (Public Safety)
+	Walk West to (Intersection 141)
+	Walk SouthWest to (CII)
+	Walk SouthWest to (DCC)
+Total distance: 395.569 pixel units.
+First building id/name, followed by Enter: Second building id/name, followed by Enter: Unknown building: [W]
+b lists all buildings
+r prints directions for the shortest route between any two buildings
+q quits the program
+m prints a menu of all commands
