@@ -1,0 +1,5 @@
+r
+First building id/name, followed by Enter: 60
+Second building id/name, followed by Enter: cbis
+Unknown building: [cbis]
+q

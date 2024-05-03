@@ -1,0 +1,6 @@
+r
+First building id/name, followed by Enter: Louis Rubin Memorial Aproach
+Second building id/name, followed by Enter: 102
+Unknown building: [Louis Rubin Memorial Aproach]
+Unknown building: [102]
+q

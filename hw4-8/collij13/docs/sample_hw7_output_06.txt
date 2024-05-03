@@ -1,0 +1,6 @@
+r
+First building id/name, followed by Enter: East Campus Athletic Village Arena
+Second building id/name, followed by Enter: 89
+Path from East Campus Athletic Village Arena to East Campus Athletic Village Arena:
+Total distance: 0.000 pixel units.
+q

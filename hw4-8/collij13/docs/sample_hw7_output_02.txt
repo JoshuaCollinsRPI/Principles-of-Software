@@ -1,0 +1,11 @@
+r
+First building id/name, followed by Enter: EMPAC
+Second building id/name, followed by Enter: Academy Hall
+Path from EMPAC to Academy Hall:
+	Walk East to (MRC)
+	Walk East to (Empire State Hall)
+	Walk East to (Cogswell Laboratory)
+	Walk East to (Intersection 137)
+	Walk SouthEast to (Academy Hall)
+Total distance: 490.489 pixel units.
+q

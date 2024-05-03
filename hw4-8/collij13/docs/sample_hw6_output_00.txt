@@ -1,0 +1,7 @@
+path from 31367 Green Duplo Egg Base to 98138pr0080 Pearl Gold Tile Round 1 x 1 with Blue, Yellow and Black Minecraft Print:
+31367 Green Duplo Egg Base to 3437 Green Duplo Brick 2 x 2 with weight 1.000
+3437 Green Duplo Brick 2 x 2 to 3437 Red Duplo Brick 2 x 2 with weight 0.003
+3437 Red Duplo Brick 2 x 2 to 41250 Blue Ball, Hard Plastic, 51mm (approx. 6 studs diameter) with weight 0.053
+41250 Blue Ball, Hard Plastic, 51mm (approx. 6 studs diameter) to 2780 Black Technic Pin with Friction Ridges Lengthwise and Center Slots with weight 0.100
+2780 Black Technic Pin with Friction Ridges Lengthwise and Center Slots to 98138pr0080 Pearl Gold Tile Round 1 x 1 with Blue, Yellow and Black Minecraft Print with weight 1.000
+total cost: 2.156

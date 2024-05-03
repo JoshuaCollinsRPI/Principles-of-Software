@@ -1,0 +1,5 @@
+r
+First building id/name, followed by Enter: LINAC Facility
+Second building id/name, followed by Enter: 60
+There is no path from LINAC Facility to Radio Club.
+q
