@@ -66,6 +66,14 @@ public class LegoPaths {
             	if(table.get(part1).get(part2) != null) {
             		Double Weight = 1.0 / table.get(part1).get(part2);
                 	graph.addEdge(part1, part2, Weight);
+			/*
+			Got a 60 on this hw because we forgot the following line
+
+    			graph.addEdge(part2, part1, Weight);
+
+       			Each node that connects to another can go A->B and B->A
+
+			*/
             	}
             }
         }
